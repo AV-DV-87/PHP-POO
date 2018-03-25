@@ -20,15 +20,15 @@ class Bateau implements Mouvement
 {
     public function start()
     {
-        // TODO: Implement start() method.
+
     }
     public function turnRight()
     {
-        // TODO: Implement turnRight() method.
+
     }
     public function turnLeft()
     {
-        // TODO: Implement turnLeft() method.
+
     }
 }
 

@@ -17,7 +17,7 @@ class JoueurFr extends Joueur
 {
     public function etreMajeur()
     {
-        return 18;// TODO: Implement etreMajeur() method.
+        return 18;
     }
 }
 
@@ -25,7 +25,7 @@ class JoueurUs extends Joueur
 {
     public function etreMajeur()
     {
-        return 21;// TODO: Implement etreMajeur() method.
+        return 21;
     }
 }
 
